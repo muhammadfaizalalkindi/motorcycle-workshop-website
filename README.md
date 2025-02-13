@@ -51,13 +51,13 @@ motorcycleworkshop-main/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/motorcycleworkshop.git
+   git clone https://github.com/muhammadfaizalalkindi/motorcycle-workshop-website.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd motorcycleworkshop-main
+   cd motorcycle-workshop-website
    ```
 
 3. **Open `index.html` in your preferred web browser.**
