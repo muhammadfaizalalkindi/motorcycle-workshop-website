@@ -34,7 +34,7 @@ Motorcycle Workshop is a responsive and interactive website designed for a motor
 ## File Structure
 
 ```plaintext
-motorcycleworkshop-main/
+motorcycle-workshop-website/
 ├── index.html            # Main HTML file
 └── assets/
     ├── css/
